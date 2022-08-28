@@ -1,0 +1,28 @@
+{
+  "name": "xpathjs",
+  "version": "0.0.1",
+  "description": "A XPath library for JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AimTune/xpathjs.git"
+  },
+  "keywords": [
+    "xpath",
+    "xpathjs",
+    "html",
+    "xml"
+  ],
+  "author": {
+    "name": "Hamza Ağar",
+    "email": "hamzaagareng@gmail.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AimTune/xpathjs/issues"
+  },
+  "homepage": "https://github.com/AimTune/xpathjs#readme"
+}
