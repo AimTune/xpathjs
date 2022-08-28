@@ -1,5 +1,5 @@
 {
-  "name": "xpathjs",
+  "name": "@aimtune/xpathjs",
   "version": "0.0.1",
   "description": "A XPath library for JS",
   "main": "index.js",
